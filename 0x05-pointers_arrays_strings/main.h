@@ -6,4 +6,5 @@ void swap_int(int *a, int *b);
 int _putchar(char c);
 size_t _strlen(const char *str);
 void print_rev(char *s);
+void reverse_array(int *a, int n);
 #endif /* MAIN_H */
