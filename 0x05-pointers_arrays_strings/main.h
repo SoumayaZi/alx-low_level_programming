@@ -9,4 +9,6 @@ void reverse_array(int *a, int n);
 char *string_toupper(char *n);
 char *cap_string(char *n);
 void print_rev(char *s);
+void rev_string(char *s);
+
 #endif
